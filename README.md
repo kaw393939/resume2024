@@ -1,7 +1,7 @@
 # John Doe
 **Software Engineer | Python Developer**
 
-- Email: johndoe@example.com
+- Email: kwilliam@njit.edu
 - GitHub: [github.com/johndoe](https://github.com/johndoe)
 - LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
 
