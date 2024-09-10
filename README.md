@@ -2,7 +2,7 @@
 **Software Engineer | Python Developer**
 
 - Email: kwilliam@njit.edu
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+- GitHub: [github.com/kaw393939](https://github.com/kaw393939)
 - LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
 
 ---
