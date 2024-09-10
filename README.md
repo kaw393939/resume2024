@@ -3,7 +3,7 @@
 
 - Email: kwilliam@njit.edu
 - GitHub: [github.com/kaw393939](https://github.com/kaw393939)
-- LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
+- LinkedIn: [linkedin.com/in/keithwilliams5](https://www.linkedin.com/in/keithwilliams5/)
 
 ---
 
